@@ -1,0 +1,21 @@
+{
+  "name": "public-dns",
+  "version": "1.0.0",
+  "description": "Free and open public DNS with priority on security and privacy.",
+  "homepage": "https://cyandark.com/",
+  "author": "CyanDark, Inc.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CyanDarkInc/public-dns"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-rimraf": "^0.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-shell": "^0.4.0",
+    "gulp-insert": "^0.5.0"
+  }
+}

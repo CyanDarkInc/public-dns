@@ -1,0 +1,6 @@
+//
+// CyanDark Public DNS
+//
+// Copyright (c) 2018, CyanDark, Inc. (http://cyandark.com)
+// Licensed under MIT (https://opensource.org/licenses/MIT)
+//

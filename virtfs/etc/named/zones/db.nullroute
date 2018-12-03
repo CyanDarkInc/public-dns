@@ -1,0 +1,10 @@
+@                     10800 IN SOA  ads.example.com. hostmaster.example.com. (
+                            2018120201
+                            3600
+                            900
+                            1209600
+                            86400)
+                      10800 IN NS   ads.example.com.
+                      10800 IN A    0.0.0.0
+@                     10800 IN A    0.0.0.0
+*                     10800 IN A    0.0.0.0
