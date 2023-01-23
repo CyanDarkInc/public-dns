@@ -46,4 +46,4 @@ foreach ($sources as $type => $source) {
 }
 
 $file = implode("\r\n", $clean);
-@file_put_contents($destination . DIRECTORY_SEPARATOR . 'contributions-autogen.conf', $file);
+@file_put_contents($destination . DIRECTORY_SEPARATOR . 'other-autogen.conf', $file);
